@@ -6,7 +6,7 @@ n = input("Su nombre por favor: ")
 l = input("Sus apellidos paterno y materno por favor: ") 
 # Edad
 e = int(input("Su edad en años por favor: "))
-# Altura 
+# Altura (Debe ser especifico con la altura ejemplo: altura 1.60)
 a = float (input ("Su altura en metros por favor: "))
 est = a
 # Peso
