@@ -1,5 +1,5 @@
 # IMC-Calculadora
-Calculadora de índice de masa corporal (IMC)
+# Calculadora de índice de masa corporal (IMC)
 # Le pedimos nombre
 n = input("Su nombre por favor: ")
 # El apellido paterno y materno
@@ -40,5 +40,5 @@ elif IMC >= 35.00 and IMC <= 39.00:
 elif IMC >= 40.00:
     print ("Obesidad morbida")  
     #######################################
-    Esto lo hice basandome en un codigo que vi en nuestra tarea, solo espero haberlo echo bien y me seguire esforzando
-    lo probe conmigo primero y tengo peso normal: 21.00
+    # Esto lo hice basandome en un codigo que vi en nuestra tarea, solo espero haberlo echo bien y me seguire esforzando
+    # Lo probe conmigo primero y tengo peso normal: 21.00
